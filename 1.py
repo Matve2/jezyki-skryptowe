@@ -8,4 +8,4 @@ print("Lista 1 po sortowaniu: ", sorted_list)
 
 sorted_list_2=sorted(list_to_sort2, key=lambda list_element2:(list_element2[1], list_element2[2]))
 print("Lista 2 przed sortowaniem: ", list_to_sort2)
-print("Lista 2 po sortowaniu: ", sorted_list_2)
+print("Lista 2 po sortowaniu: ", sorted_list_2) 
